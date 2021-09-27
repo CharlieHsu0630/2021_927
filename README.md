@@ -9,4 +9,4 @@
 
 [我的網頁](https://www.nkust.edu.tw)
 ![nkust](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "nkust")
-[![N|Solid](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)](https://www.nkust.edu.tw)
+[![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)](https://www.nkust.edu.tw)
