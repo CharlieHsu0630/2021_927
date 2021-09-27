@@ -51,13 +51,13 @@ Strikethrough uses two tildes. <s>Scratch this</s>.
 
 python code
 ```python=
-s= “Python syntax highlisghting”
+s= "Python syntax highlisghting"
 Print s
 ```
 ---
 javascript code
 ```javascript=
-Var s = “JavaScript syntax highlighting”;
+Var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
@@ -65,11 +65,11 @@ alert(s);
 
 Colons can be used to align columns.
 
-|Tables |Are |Cool|
-|-------|----|----|
-|:Col 3 is|:right-aligned:|$1600:|
-|:Col 2 is|:centered:|$12:|
-|:Zebra stripes are|:neat:|$1:|
+|Tables |:Are:|Cool|
+|:-------|:----:|----:|
+|Col 3 is|right-aligned|$1600|
+|Col 2 is|centered|$12|
+|Zebra stripes are|neat|$1|
 
 There must be at least 3 dashes separating each header cell.</br>
 The outer pipes (|) are optional, and you don't need to make the</br>
