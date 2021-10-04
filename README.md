@@ -23,9 +23,9 @@ This is a long quote.
 - [ ] 4th work
 
 Emphasis,aka italics, with asterisks or underscores.
-Strong emphasis, aka bold, with asterisks or underscores.
-Combined emphasis with asterisks and underscores.
-Strikethrough uses two tildes. Scratch this.
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+Combined emphasis with **asterisks and underscores**.
+Strikethrough uses two tildes. <s>Scratch this</s>.
 
 ---
 
