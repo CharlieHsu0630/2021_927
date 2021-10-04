@@ -2,14 +2,6 @@
 
 ![GANTT](GANTT.png)
 
-
----
-tags: tutorials
-disqus: hackmd
----
-PERT/CPM圖
-===
-
 ```graphviz
 digraph {
 	node[shape=record];
